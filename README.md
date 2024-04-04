@@ -4,6 +4,13 @@ My name is **Jaroslav Hort** and I am a full-stack software developer from Czech
 
 📫 You can visit my website at https://hortjar.cz/
 
-🔭 I’m currently working on my portfolio projects
+🌱 I’m currently working on my portfolio projects
 
-🌱 I’m currently learning latest web development frameworks
+📷 Beginner photographer (photo wall coming soon!)
+
+🌍 Speaking Czech, English and learning Japanese
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hortjar&layout=compact&hide=rust&theme=dark&card_width=600"/>
+</p>
